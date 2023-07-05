@@ -1,21 +1,21 @@
 <template>
-    <footer class="w-100 footer d-flex justify-content-around bg-dark text-light">
+    <footer class="w-100 d-flex justify-content-around bg-dark text-light py-4">
         <div>
-            <h1>Hola</h1>
-            <h1>Hola</h1>
-            <h1>Hola</h1>
+            <p>¿Quiénes somos?</p>
+            <p>Soporte</p>
+            <p>Ubicación</p>
         </div>
 
         <div>
-            <h1>Hola</h1>
-            <h1>Hola</h1>
-            <h1>Hola</h1>
+            <p>Todos los Campeones</p>
+            <p>Teamfight Tactics</p>
+            <p>Valorant</p>
         </div>
         
         <div>
-            <h1>Hola</h1>
-            <h1>Hola</h1>
-            <h1>Hola</h1>
+            <p>Argentina</p>
+            <p>Colombia</p>
+            <p>Argelombia</p>
         </div>
     </footer>
 </template>
@@ -23,5 +23,6 @@
 <style>
 footer{
     position: relative;
+    bottom: 0;
 }
 </style>
